@@ -1,4 +1,4 @@
 module Ruby [system]{
-    header "shim.h"
+    header "ruby/ruby_pre.h"
     link "ruby"
 }
